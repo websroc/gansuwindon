@@ -1,2 +1,2 @@
-# gansuwindon
- a small demo 
+#一个自媒体人做的demo。
+
